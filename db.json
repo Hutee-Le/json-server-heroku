@@ -2,63 +2,84 @@
   "dishes": [
     {
       "id": 0,
-      "name": "Uthappizza",
+      "name": "Milk Tea Basic",
       "image": "images/milktea.jpg",
-      "category": "mains",
+      "category": "Milk Tea",
       "label": "Hot",
       "price": "4.99",
-      "featured": true,
-      "description": "A unique combination of Indian Uthappam (pancake) and Italian pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Paneer."
+      "featured": false,
+      "description": "Milk Tea Basic is a refreshing beverage that combines brewed tea with milk. It offers a delightful blend of robust tea flavors and creamy richness. It's sweetened to taste and can be enjoyed with tapioca pearls or other additions for added texture."
     },
     {
       "id": 1,
-      "name": "Zucchipakoda",
-      "image": "images/zucchipakoda.png",
-      "category": "appetizer",
+      "name": "Black Sugar Milk",
+      "image": "images/Black-sugar-buffalo-milk-yogurt.jpg",
+      "category": "Milk Tea",
       "label": "",
-      "price": "1.99",
+      "price": "1.89",
       "featured": false,
-      "description": "Deep fried Zucchini coated with mildly spiced Chickpea flour batter accompanied with a sweet-tangy tamarind sauce"
+      "description": "Black Sugar Milk is a sweet and indulgent beverage that combines milk with the distinct flavor of black sugar. Originating from Taiwan, this drink is known for its rich caramel-like sweetness. It's a popular choice for those who enjoy creamy and flavorful beverages."
     },
     {
       "id": 2,
-      "name": "Vadonut",
-      "image": "images/vadonut.png",
-      "category": "appetizer",
+      "name": "Cacao Milk Cheese",
+      "image": "images/Cacao-milk-foam-cheese.jpg",
+      "category": "Cacao Mix",
       "label": "New",
       "price": "1.99",
       "featured": false,
-      "description": "A quintessential ConFusion experience, is it a vada or is it a donut?"
+      "description": "Cacao Milk Cheese is a delightful beverage that combines the rich flavors of cacao with the creamy goodness of milk cheese. It offers a unique and delicious blend of sweetness and creaminess, making it a favorite among chocolate enthusiasts."
     },
     {
       "id": 3,
-      "name": "ElaiCheese Cake",
-      "image": "images/elaicheesecake.png",
-      "category": "dessert",
+      "name": "Mango Orange Tea",
+      "image": "images/Mango-orange-tea.png",
+      "category": "Fruit tea",
       "label": "",
-      "price": "2.99",
+      "price": "2.49",
       "featured": false,
-      "description": "A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms"
+      "description": "Savor the refreshing combination of mango and orange in this invigorating fruit tea. Perfectly balanced flavors with a hint of sweetness, creating a delightful and revitalizing beverage."
     },
     {
       "id": 4,
-      "name": "ElaiCheese Cake",
+      "name": "White Bread",
       "image": "images/white-bread.jpg",
-      "category": "dessert",
+      "category": "Breads",
       "label": "",
       "price": "2.99",
       "featured": false,
-      "description": "A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms"
+      "description": "With a subtle sweetness and a crispy texture, this bread is perfect for sandwiches, toasting, or serving with soups, sauces, or cheese. With its simple and traditional flavor, White Bread is a versatile staple for any meal."
     },
-     {
+    {
       "id": 5,
-      "name": "ElaiCheese Cake",
-      "image": "images/white-bread.jpg",
-      "category": "dessert",
+      "name": "Cookie Choco",
+      "image": "images/Cookie-Choco.jpg",
+      "category": "Cacao Mix",
       "label": "",
-      "price": "2.99",
+      "price": "2.89",
       "featured": false,
-      "description": "A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms"
+      "description": "Cookie Choco is a delicious treat that combines crunchy cookies with luscious chocolate. It's a delightful snack loved by all ages."
+    },
+    {
+      "id": 6,
+      "name": "Fruit Infused Tea",
+      "image": "images/fruit-infused-tea.png",
+      "category": "Fruit tea",
+      "label": "",
+      "price": "2.89",
+      "featured": true,
+      "description": "Cookie Choco is a delicious treat that combines crunchy cookies with luscious chocolate. It's a delightful snack loved by all ages."
+    },
+    {
+      "id": 7,
+      "name": "Croissant",
+      "image": "images/croissant.png",
+      "category": "Breads",
+      "label": "",
+      "countSeller": 100,
+      "price": "2.89",
+      "featured": false,
+      "description": "Cookie Choco is a delicious treat that combines crunchy cookies with luscious chocolate. It's a delightful snack loved by all ages."
     }
   ],
   "comments": [
@@ -283,6 +304,31 @@
       "message": "afadsfds",
       "date": "2017-12-04T09:41:49.890Z",
       "id": 1
+    }
+  ],
+  "message": [
+    {
+      "id": 0,
+      "email": "linh@gmail.com",
+      "description": "I want to cancel my order"
+    },
+    {
+      "author": "linhlinh@gmail.com",
+      "comment": "I want to order coffee",
+      "date": "2023-07-04T01:58:58.273Z",
+      "id": 1
+    },
+    {
+      "author": "linh@gmail.com",
+      "comment": "I want to order coffee",
+      "date": "2023-07-04T03:10:21.865Z",
+      "id": 2
+    },
+    {
+      "author": "odkfjglsd@gmail.com",
+      "comment": "ok",
+      "date": "2023-07-04T03:22:21.306Z",
+      "id": 3
     }
   ]
 }
